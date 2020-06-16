@@ -1,0 +1,35 @@
+.header{
+    background-color:black;
+    height:100px;
+    text-align:center;
+    color:white;
+    font-family: 'Odibee Sans', cursive;
+    font-size:40px;
+}
+.c{
+    text-align:center;
+}
+
+
+
+
+body{
+     background-color: black;
+ }
+
+ html,body{
+    width:100%;
+    margin:0px;
+    padding:0px;
+    overflow-x: hidden;
+}
+.i1{
+    margin:10px;
+    border:10px solid #888888;
+
+}
+.img.resize {
+    width:200px;
+    height:40px;
+  }
+

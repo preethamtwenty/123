@@ -1,0 +1,79 @@
+.photos{
+    background-color:#2fc4b2;
+    height:300px;
+    text-align:center;
+    font-family: 'Bangers', cursive;
+    
+    
+
+
+}
+.p1 a:link ,.p1 a:visited{
+    position:relative;
+    top:100px;
+    color:white;
+    font-size:60px;
+
+}
+.p1 a:hover,.p1 a:focus{
+    
+    text-decoration:none;
+
+}
+.work{
+    background-color:black;
+    height:100px;
+    text-align:center;
+    color:white;
+    font-size:40px;
+    font-family: 'Bangers', cursive;
+
+}
+.videos{
+    background-color:#ffd31d;
+    height:280px;
+    text-align:center;
+    p
+    
+   
+}
+.web{
+    background-color:#d63447;
+    height:280px;
+    padding:0px;
+    text-align:center;
+    
+}
+html,body{
+    width:100%;
+    margin:0px;
+    padding:0px;
+    overflow-x: hidden;
+    
+    
+}
+.vi a:link,.vi a:visited{
+    font-size:40px;
+    color:white;
+    font-family: 'Bangers', cursive;
+    position:relative;
+    top:140px;
+
+}
+.we a:link,.we a:visited{
+    font-size:40px;
+    color:white;
+    font-family: 'Bangers', cursive;
+    position:relative;
+    top:140px;
+
+
+}
+.vi a:hover,.vi a:focus{
+    text-decoration:none;
+
+}
+.we a:hover,.we a:focus{
+    text-decoration:none;
+
+}

@@ -1,0 +1,90 @@
+nav{
+     background-image:url("elephant.jpg");
+     
+     background-size:100% 700px;
+     height:630px;
+     
+     background-repeat:no-repeat;
+}
+.love{
+     color:#ffd31d;
+     font-family: 'Chelsea Market', cursive;
+     text-align:center;
+     position:relative;
+     top:250px;
+     text-shadow:#ffd31d ;
+
+}
+.nav-link{
+     display:inline-block;
+     padding:0px;
+}
+.nav-link a:link,.nav-link a:visited{
+     color:#f6eedf;
+     padding:20px;
+     font-size:20px;
+     font-family: 'Neucha', cursive;
+     
+     
+}
+.nav-link a:hover,.nav-link a:focus{
+     color:#ffe277;
+     background-color:black;
+     text-decoration:none;
+     
+
+
+     
+}
+.nav-item{
+     float:right;
+     margin-right:40px;
+     margin-top:30px;
+}
+.do {
+     vertical-align:super;
+     color:#ff5200;
+     
+     position:relative;
+     left:80px;
+     
+     font-size:30px;
+     
+     
+     
+   }
+.l {
+     vertical-align:super;
+     color:#ff5200;
+     
+     position:relative;
+     right:70px;
+     
+     font-size:30px;
+     
+     
+   }
+.p{
+     
+     color:#f5a31a;
+     font-size:10px;
+     margin:0px;
+     font-family: 'Great Vibes', cursive;
+     float:left;
+     margin-top:20px;
+     margin-left:30px;
+     
+}
+html,body{
+     width:100%;
+     margin:0px;
+     padding:0px;
+     overflow-x: hidden;
+}
+
+@media  (max-width:534px){
+
+     .first{
+          font-size:10px;
+     }
+}

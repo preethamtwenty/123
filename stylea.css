@@ -1,0 +1,89 @@
+#one{
+
+    background-color:#dddddd;
+    margin-bottom:40px;
+    
+}
+.pree{
+    font-size:40px;
+    font-family: 'Chelsea Market', cursive;
+    margin-top:50px;
+    text-align:center;
+}
+.pree .a{
+    font-size:30px;
+}
+.photo{
+    margin:50px;
+    border-radius:100%;
+    border:5px solid #212129;
+    
+    
+}
+.pics{
+    text-align:center;
+}
+.livi{
+    font-size:30px;
+    font-family: 'Chelsea Market', cursive;
+    margin-top:50px;
+    text-align:center;
+}
+.ind{
+    text-align:center;
+}
+.ip{
+     margin-top:70px;
+}
+header{
+    background-color:black;
+    height:100px;
+    text-align:center;
+    color:white;
+    font-family: 'Dosis', sans-serif;
+    font-size:50px;
+}
+.contact{
+    background-color:#212129;
+    height:70px;
+  
+    
+    color:white;
+    font-family: 'Dosis', sans-serif;
+    font-size:20px;
+    padding-bottom:10px;
+    
+    
+}
+.follow{
+    margin-left:30px;
+}
+.it{
+    background-color:#212129;
+
+}
+.it a:link ,.it a:visited{
+    color:white;
+    font-family: 'Dosis', sans-serif;
+    font-size:15px;
+    padding-left:30px;
+    
+}
+html,body{
+    width:100%;
+    margin:0px;
+    padding:0px;
+    overflow-x: hidden;
+    height:100%;
+    border:0px;
+    background-color:#dddddd;
+}
+.it a:hover,.it a:focus{
+    
+   text-decoration:none;
+    
+}
+span{
+    margin:30px;
+}
+
